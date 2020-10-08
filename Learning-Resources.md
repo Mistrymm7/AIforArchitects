@@ -11,6 +11,8 @@
 
 4. **Smart Collaborative Robotic Agents** -*Reinforcement Learning using Unity : DF2020 Workshop* - https://www.youtube.com/watch?v=v2-0X_y5nvc&list=PLtXrWmW3nYTrkqT-kReseehW72HwA8u7z
 
+5. **An Introduction To Machine Intelligence - For Architects and other NonEngineers** https://www.youtube.com/playlist?list=PLUJPgS8PA78E8y_vBqpRtsVy9k-ZZRQ3Q
+
 ## By Artists
 1. **Machine Learning for Artists** - *By far the best course I did till date, covers all technical aspects required for artistic explorations* - https://ml4a.github.io/classes/itp-F18/ 
 2. **StyleGAN2 by Artificial Images** -*Goes a bit deeper into stylegan and I found image scraping videos quite useful too* https://www.youtube.com/watch?v=D3a9DFykfxI&list=PLWuCzxqIpJs9D5gDqw4Nhm9GCJuhMuRwX
