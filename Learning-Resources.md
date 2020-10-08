@@ -37,6 +37,7 @@
 1. https://d2l.ai/
 2. https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398
 3. Urban AI - https://smartworld-ai.com/wp-content/uploads/2020/06/URBAN-AI-1.pdf
+4. Taking Climate Change with ML - https://arxiv.org/pdf/1906.05433.pdf
 
 ## Libraries
 1. tensorflow.js - ⚡ A JavaScript library for training and deploying ML models in the browser and on Node.js.
