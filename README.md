@@ -28,6 +28,7 @@
 9. **Datacamp** - https://learn.datacamp.com/courses
 10. **Machine Learning crash course** -https://developers.google.com/machine-learning/crash-course
 11. **SIGGRAPH  Hands-on Workshop: Machine Learning and Neural Networks** - https://www.youtube.com/watch?v=gfY2LfRfE1E&list=PLUPhVMQuDB_b2kcOooEduedthcBH53mvC&index=1
+12. **Reinforcement Learning - Goal Oriented Intelligence** - https://deeplizard.com/learn/playlist/PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv
 
 
 ## Books and Articles
