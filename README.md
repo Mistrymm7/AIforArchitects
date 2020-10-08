@@ -4,8 +4,11 @@
 
 ## By Architects
 1.**Deepdesign: Architecture & 3D Neural Networks** - 2D to 2D style + 2D-3D styletransfer : *Unsupervised learning using Paperspace : DF2020 Workshop* - https://www.facebook.com/matias.del.campo/videos
+
 2. **Creative AI Ecologies | Augmenting Architectural Agency** - *Supervised and Unsupervised learning using Google Colab : DF2020 Workshop* - https://www.facebook.com/profile.php?id=100000552470255&sk=videos
+
 3. **Artificial Intelligence for Resilient Urban Planning** - *Reinforcement Learning using Anaconda and GH: DF2020 Workshop* - https://www.youtube.com/channel/UCU0_tG8q4LuG2Ff3fLqMJpw
+
 4. **Smart Collaborative Robotic Agents** -*Reinforcement Learning using Unity : DF2020 Workshop* - https://www.youtube.com/watch?v=v2-0X_y5nvc&list=PLtXrWmW3nYTrkqT-kReseehW72HwA8u7z
 
 ## By Artists
