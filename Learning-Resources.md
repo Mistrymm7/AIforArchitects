@@ -17,6 +17,7 @@
 1. **Machine Learning for Artists** - *By far the best course I did till date, covers all technical aspects required for artistic explorations* - https://ml4a.github.io/classes/itp-F18/ 
 2. **StyleGAN2 by Artificial Images** -*Goes a bit deeper into stylegan and I found image scraping videos quite useful too* https://www.youtube.com/watch?v=D3a9DFykfxI&list=PLWuCzxqIpJs9D5gDqw4Nhm9GCJuhMuRwX
 3. **Into to ML Art with RunwayML** -*By far the easiest mode of experimenting with ML models* - https://www.youtube.com/watch?v=s87g2ZYUuc8&list=PLWuCzxqIpJs8k_WYOxWc9iHnC9dYq0OwT
+4. **Creative Applications of Deep Learning with TensorFlow** *Subject to availability*- https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info
 
 ## By Engineers 
 1. **Kaggle** - *Mini hands-on courses* - https://www.kaggle.com/learn/overview
