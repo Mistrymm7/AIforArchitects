@@ -44,3 +44,9 @@
 1. tensorflow.js - ⚡ A JavaScript library for training and deploying ML models in the browser and on Node.js.
 2. ml5.js - 🤖 🖌 It aims to make machine learning approachable for a broad audience of artists, creative coders, and students.
 3. p5.js - 🎨 🎸 p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web.
+
+## GAN Deeper Dive (Books : https://machinelearningmastery.com/books-on-generative-adversarial-networks-gans/)
+1. **GAN Mini Crash Course** - https://machinelearningmastery.lpages.co/ganwp-mini-course/
+2. **GAN Articles** - https://medium.com/@jonathan_hui/gan-gan-series-2d279f906e7b
+3. **GAN Specialization** - https://www.coursera.org/specializations/generative-adversarial-networks-gans
+4. **Generative Modeling** - https://genforce.github.io/
