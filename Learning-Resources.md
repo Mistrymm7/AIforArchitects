@@ -50,3 +50,6 @@
 2. **GAN Articles** - https://medium.com/@jonathan_hui/gan-gan-series-2d279f906e7b
 3. **GAN Specialization** - https://www.coursera.org/specializations/generative-adversarial-networks-gans
 4. **Generative Modeling** - https://genforce.github.io/
+
+## 3D-Machine-Learning : 
+https://github.com/timzhang642/3D-Machine-Learning
