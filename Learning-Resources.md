@@ -50,6 +50,7 @@
 2. **GAN Articles** - https://medium.com/@jonathan_hui/gan-gan-series-2d279f906e7b
 3. **GAN Specialization** - https://www.coursera.org/specializations/generative-adversarial-networks-gans
 4. **Generative Modeling** - https://genforce.github.io/
+5. **Style Transfer, Face Generation using GANs in 20 minutes** - https://www.edyoda.com/course/1418
 
 ## 3D-Machine-Learning : 
 https://github.com/timzhang642/3D-Machine-Learning
