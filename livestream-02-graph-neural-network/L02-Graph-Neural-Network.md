@@ -1,19 +1,20 @@
-Livestream-02 Graph Neural Network Resources
+# Livestream-02 Graph Neural Network Resources
 
-Structure of the Session
+## Structure of the Session
 1. Theory
 2. Hands On Colab Implementation
 3. Paper
 4. Discussion (Thoughts + Doubts)
 
+-----------------------------------------------------
 
-Time Crunch (<30 mins)
+##Time Crunch (<30 mins)
 
 Graph Networks in 2020 : https://www.youtube.com/watch?v=bA261BF0bdk
 
+-----------------------------------------------------
 
-
-Decent Time (30 - 60 Mins)
+## Decent Time (30 - 60 Mins)
 
 Understanding Graph Neural Networks | Part 1/3 - Introduction : https://www.youtube.com/watch?v=fOctJB4kVlM
 
@@ -23,8 +24,9 @@ Understanding Graph Neural Networks | Part 3/3 - Pytorch Geometric and Molecule 
 
 House-GAN: Relational Generative Adversarial Networks for Graph-constrained House Layout Generation : https://arxiv.org/abs/2003.06988
 
+-----------------------------------------------------
 
-Wanna Go All In (60 - 2 Hrs)
+## Wanna Go All In (60 - 2 Hrs)
 
 Deep Learning 59: Fundamentals of Graph Neural Network : https://www.youtube.com/watch?v=1miz7yggcTg
 
