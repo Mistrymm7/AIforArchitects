@@ -8,7 +8,7 @@
 
 -----------------------------------------------------
 
-##Time Crunch (<30 mins)
+## Time Crunch (<30 mins)
 
 Graph Networks in 2020 : https://www.youtube.com/watch?v=bA261BF0bdk
 
