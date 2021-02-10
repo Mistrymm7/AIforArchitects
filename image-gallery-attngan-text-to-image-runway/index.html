@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text to Image Gallery</title>
+</head>
+
+<body>
+
+    <style>
+        body {
+            margin: 0;
+            font: 14px sans-serif;
+            background-color: #222;
+            color: white;
+
+        }
+
+        #captionForm {
+            margin: 20px auto;
+            max-width: 800px;
+            background: #555;
+            padding: 20px;
+            border-radius: 10px;
+
+
+        }
+
+        #results {
+            margin: 20px auto;
+            max-width: 800px;
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 2rem;
+
+        }
+    </style>
+
+    <div id="captionForm">
+        <h1>Text to Image Gallery : Arch 591</h1>
+        <input id="caption" placeholder="Describe scene">
+        <button id="generateButton" onclick="generate()">Generate</button>
+    </div>
+    <div id="results"></div>
+    <script src="https://cdn.jsdelivr.net/npm/@runwayml/hosted-models@latest/dist/hosted-models.js"></script>
+
+    <script>
+        const model = new rw.HostedModel({
+            url: "https://attngan-6d9e3b7c.hosted-models.runwayml.cloud/v1/",
+            token: "12/8xnH/2o6anJ44Bo3z0g==",
+        });
+        function generate() {
+            const caption = document.getElementById('caption').value;
+
+            const inputs = {
+                "caption": caption
+            };
+
+
+            /* input, fetch, response, output 
+            in output, changge output. consoldelog, const image>create element to display
+            */
+            model.query(inputs).then(outputs => {
+                const { result } = outputs;
+                // use the outputs in your project
+                const img = document.createElement('img');
+                img.src=result;
+                document.getElementById('results').prepend(img);
+
+            });
+
+        }
+            
+        window.addEventListener('keydown',e=>{
+            if(e.key ==='Enter'){
+                generate();
+            }
+
+        }
+        
+        )
+
+
+    </script>
+
+</body>
+
+</html>
